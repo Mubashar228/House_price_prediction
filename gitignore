@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+venv/
+
+random_forest_model.pkl

@@ -5,6 +5,7 @@ import joblib
 # Load model
 model = joblib.load("random_forest_model.pkl")
 
+
 st.set_page_config(page_title="🏡 House Price Prediction", layout="centered")
 st.title("🏡 House Price Prediction App")
 
